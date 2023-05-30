@@ -1,0 +1,14 @@
+/* Set the table and cell borders to white */
+table, th, td {
+    border: 1px solid white;
+}
+
+/* Set the table text color to white */
+table, th, td {
+    color: white;
+}
+
+/* Set the table header background color to transparent */
+th {
+    background-color: transparent;
+}
